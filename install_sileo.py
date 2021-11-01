@@ -10,11 +10,10 @@ import gzip
 
 print("===================================================================")
 print("      install_sileo Script Copyright (C) 2019/2020 Linus Henze     ")
-print("                     Part of the Fugu Jailbreak                    ")
-print("                 https://github.com/LinusHenze/Fugu                \n")
+print("                     Part of the Fugu15 Jailbreak                  ")
+print("                 https://github.com/epeth0mus/Fugu15/              \n")
 print("   This is free software, and you are welcome to redistribute it   ")
 print("under certain conditions; See the LICENSE file for more information\n")
-print("           If you paid for this software, you got scammed          ")
 print("===================================================================\n")
 
 print("NOT REQUIRED ANYMORE")
