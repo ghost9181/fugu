@@ -5,7 +5,7 @@ __UPDATE:__ Fugu will now install Sileo, SSH and Substitute automatically! Addit
 __IMPORTANT:__ This jailbreak is currently in development and only meant to be used by developers.  
 
 # WARNING
-**!!! ONLY DOWNLOAD FUGU FROM [https://github.com/LinusHenze/Fugu](https://github.com/LinusHenze/Fugu) AS IT IS VERY EASY TO CREATE A VERSION OF FUGU THAT CONTAINS MALWARE !!!**
+**!!! ONLY DOWNLOAD FUGU 15 (iOS 15 - iOS 15.2 Jailbreak) FROM [https://github.com/epeth0mus/Fugu15/](https://github.com/epeth0mus/Fugu15/) AS IT IS VERY EASY TO CREATE A VERSION OF FUGU THAT CONTAINS MALWARE !!!**
 
 # Supported Devices
 Currently, the iPad Pro (2017, every size) and iPhone 7 are the only officially supported devices (on iOS 13 - 13.5.1).  
@@ -48,7 +48,7 @@ Fugu consists of the following components:
 # License
 All code in this repository, except for third party code (see 3rdParty.txt), is released under the GPL v3.  
 
-Fugu - iOS Jailbreaking tool  
+Fugu15 - [iOS 15 Jailbreaking tool](https://taig9.com/jailbreak/ios-15)  
 Copyright (C) 2019/2020 Linus Henze  
 
 This program is free software: you can redistribute it and/or modify  
