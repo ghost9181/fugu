@@ -48,7 +48,12 @@ Fugu consists of the following components:
 # License
 All code in this repository, except for third party code (see 3rdParty.txt), is released under the GPL v3.  
 
-Fugu15 - [iOS 15 Jailbreaking tool](https://taig9.com/jailbreak/ios-15)  
+# iOS 15 Support
+This is modified to support rootless iOS 15 - 15.1.1 Jailbreak
+
+* Fugu15 - [iOS 15 Jailbreaking tool](https://taig9.com/jailbreak/ios-15/)  
+* Fugu153 - [iOS 15.3 Jailbreaking tool](https://taig9.com/jailbreak/ios-15-3/)  
+
 Copyright (C) 2019/2020 Linus Henze  
 
 This program is free software: you can redistribute it and/or modify  
